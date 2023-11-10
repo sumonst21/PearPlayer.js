@@ -4,7 +4,7 @@
   "description": "",
   "main": "./dist/pear-player.js",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^1.6.0",
     "babili": "^0.1.4",
     "blueimp-md5": "^2.7.0",
     "buffer": "^5.0.6",

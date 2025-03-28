@@ -4,7 +4,7 @@
   "description": "",
   "main": "./dist/pear-player.js",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.30.0",
     "babili": "^0.1.4",
     "blueimp-md5": "^2.7.0",
     "buffer": "^5.0.6",
@@ -19,7 +19,7 @@
     "readable-stream": "^2.2.9",
     "render-media": "^2.10.0",
     "rusha": "^0.8.13",
-    "webtorrent": "^0.98.16"
+    "webtorrent": "^0.107.6"
   },
   "devDependencies": {
     "copy": "^0.1.2",
